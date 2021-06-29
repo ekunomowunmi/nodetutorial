@@ -1,0 +1,2 @@
+chalk is a library that helps colors output in console
+e.g npm i chalk; const chalk = require('chalk'); console.log(chalk.yellow('hi'))
